@@ -1,6 +1,6 @@
 # Face-mask-detection
 
-## This repo is the copy of <a href = "https://github.com/mountechsolutions/face-mask-detection">this</a> repo in which me and my team members created a face mask detection model. This project is part of MLDSN workshop which started in Jul 29, 2020 and ended in 3rd August,2020.
+### This repo is the copy of <a href = "https://github.com/mountechsolutions/face-mask-detection">this</a> repo in which me and my team members created a face mask detection model. This project is part of MLDSN workshop which started in Jul 29, 2020 and ended in 3rd August,2020.
 
 <div align= "center">
   <h3> Aim: To detect whether the person is wearing face mask or not </h3>
